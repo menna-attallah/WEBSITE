@@ -224,6 +224,6 @@ footer{
 @media (min-width:768px)
 {
     .container div {
-        width:calc(50%-10px);
+        width:calc(90%-10px);
     }
 }
